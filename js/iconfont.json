@@ -1,0 +1,79 @@
+{
+  "id": "1724845",
+  "name": "练习图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1527875",
+      "name": "百度",
+      "font_class": "baidu",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1605770",
+      "name": "网站",
+      "font_class": "web",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "2169948",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "3405594",
+      "name": "新闻",
+      "font_class": "xinwen",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5440992",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "6508073",
+      "name": "小说",
+      "font_class": "xiaoshuo",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "8923921",
+      "name": "健康",
+      "font_class": "-",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "9759229",
+      "name": "招聘",
+      "font_class": "zhaopin",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "11671976",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "17541046",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "eddf",
+      "unicode_decimal": 60895
+    }
+  ]
+}
